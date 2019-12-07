@@ -514,6 +514,8 @@ document.getElementById("restart").addEventListener("click", function(event) {
         document.getElementById("scoreCV").textContent = "";
         document.getElementById("scoreCR").textContent = "";
         document.getElementById("scoreNotes").textContent = "";
+
+        updateButtons();
     }
 
     event.preventDefault();

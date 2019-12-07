@@ -1,0 +1,137 @@
+id,name,nickname,description,code,alphaVal,numVal,acro,cat,subcat,hits180,canConnect,hasFullTwist,isDoubleSalto,isAerial,receivesCreditOnce
+0,Split leap,,Split leap fwd (leg separation 180 deg),1.101,A,1,0,Leaps,,1,1,0,0,0,0
+1,Split leap 1/2,,Split leap with 1/2 turn (180 deg),1.201,B,2,0,Leaps,,1,1,0,0,0,0
+2,Split leap 1/1,,Split leap with 1/1 turn (360 deg),1.301,C,3,0,Leaps,,1,1,0,0,0,1
+3,Leap 3/4 into straddle leap 1/4,,Leap fwd with 3/4 turn (90 deg) into straddle pike position with 1/4 turn (90 deg),1.301,C,3,0,Leaps,,1,1,0,0,0,1
+4,Split leap 3/2,,Split leap with 1 1/2 turn (540 deg),1.401,D,4,0,Leaps,,1,1,0,0,0,0
+5,Tour Jete,,Fouette Hop with leg change to cross split (leg separation 180 deg),1.202,B,2,0,Leaps,,1,1,0,0,0,1
+6,Tour Jete to ring,,Fouette Hop with leg change to ring position (leg separation 180 deg),1.202,B,2,0,Leaps,,1,1,0,0,0,1
+7,Split Leap 1/1 to sit,,Split leap with 1/1 turn (360 deg) to land in split sit position,1.302,C,3,0,Leaps,,1,0,0,0,0,0
+8,Tuck jump to split,,Tuck jump with separation of legs to cross split (180 deg) during flight phase,1.103,A,1,0,Jumps,,0,1,0,0,0,0
+9,Butterfly fwd,,Butterfly fwd torso parallel to floor; slightly arched; legs straddled and feet above hip height during flight,1.203,B,2,0,Leaps,,0,1,0,0,0,1
+10,Butterfly bwd,,Butterfly bwd torso parallel to floor; slightly arched; legs straddled and feet above hip height during flight,1.203,B,2,0,Leaps,,0,1,0,0,0,1
+11,Leap 1/4 into straddle,,Leap fwd with 1/4 turn (90 deg) into straddle pike position (both legs above horizontal) to land on one or both feet,1.104,A,1,0,Leaps,,1,1,0,0,0,1
+12,Leap 1/4 into side split,,Leap fwd with 1/4 turn (90 deg) into side split position (both legs above horizontal) to land on one or both feet,1.104,A,1,0,Leaps,,1,1,0,0,0,1
+13,Johnson,,Switch leap with 1/4 turn (90 deg) to side split or to straddle pike position (both legs above horizontal),1.204,B,2,0,Leaps,,1,1,0,0,0,0
+14,Switch leap 1/2,,Switch leap with 1/2 turn (90 deg) in flight phase ,1.304,C,3,0,Leaps,,1,1,0,0,0,1
+15,Johnson 1/2,,Johnson with additional 1/2 turn (90 deg),1.304,C,3,0,Leaps,,1,1,0,0,0,1
+16,Switch leap 1/1,,Switch leap with 1/1 turn (360 deg) in flight phase ,1.404,D,4,0,Leaps,,1,1,0,0,0,1
+17,Johnson 1/1,,Johnson with additional 1/1 turn (360 deg),1.404,D,4,0,Leaps,,1,1,0,0,0,1
+18,Stride leap to wolf,,Stride leap fwd with change of legs to wolf position,1.105,A,1,0,Leaps,,0,1,0,0,0,0
+19,Switch leap,,Leap fwd with leg change (free leg swing to 45û) to cross split (180 deg separation < after leg change),1.205,B,2,0,Leaps,,1,1,0,0,0,0
+20,Switch ring,,Switch leap to ring position (180 deg separation of legs),1.305,C,3,0,Leaps,,1,1,0,0,0,0
+21,Switch ring 1/2,,Switch leap to Ring position with 1/2 turn (90 deg),1.405,D,4,0,Leaps,,1,1,0,0,0,0
+22,Pike jump,,Pike jump (hip < 90 deg),1.106,A,1,0,Jumps,,0,1,0,0,0,0
+23,Sheep jump,,Jump with upper back arch and head release with feet almost touching head,1.206,B,2,0,Jumps,,0,1,0,0,0,0
+24,Pike jump 1/1,,Pike jump (hip < 90 deg) with 1/1 turn (360 deg),1.306,C,3,0,Jumps,,0,1,0,0,0,0
+25,Straddle jump,,Straddle pike jump (both legs above horizontal),1.107,A,1,0,Jumps,,1,1,0,0,0,1
+26,Side split jump,,Side split jump (leg separation 180û),1.107,A,1,0,Jumps,,1,1,0,0,0,1
+27,Straddle jump 1/2,,Straddle pike or side split jump with 1/2 turn (90 deg),1.207,B,2,0,Jumps,,1,1,0,0,0,1
+28,Split jump 1/2,,Split Jump with 1/2 turn (90 deg),1.207,B,2,0,Jumps,,1,1,0,0,0,1
+29,Straddle jump 1/1,,Straddle pike or side split jump with 1/1 turn (360 deg),1.307,C,3,0,Jumps,,1,1,0,0,0,1
+30,Split jump 1/1,,Split Jump with 1/1 turn (360 deg),1.307,C,3,0,Jumps,,1,1,0,0,0,1
+31,Straddle jump 3/2,,Straddle pike or side split jump with 1 1/2 turn (540 deg),1.407,D,4,0,Jumps,,1,1,0,0,0,1
+32,Split jump 3/2,,Split Jump with 1 1/2 turn (540 deg),1.407,D,4,0,Jumps,,1,1,0,0,0,1
+33,Straddle jump to land,,Straddle pike (both legs above horizontal); or side split jump landing in front lying support,1.108,A,1,0,Jumps,,1,0,0,0,0,1
+34,Straddle jump 1/2 to land,,Straddle pike (both legs above horizontal) jump with 1/2 turn (90 deg) landing in front lying support,1.108,A,1,0,Jumps,,1,0,0,0,0,1
+35,Hop 1/1 to land,,Hop with 1/1 turn (360 deg) to straddle and land in front lying support,1.108,A,1,0,Hops,,0,0,0,0,0,1
+36,Straddle jump 1/1 to land,,Straddle pike (both legs above horizontal); or side split jump with 1/1 turn (360 deg) landing in front lying support,1.208,B,2,0,Jumps,,1,0,0,0,0,1
+37,Hop 3/2 to land,,Hop with 1 1/2 turn (540 deg) in horizontal plane to land in front lying support,1.208,B,2,0,Hops,,0,0,0,0,0,1
+38,Split jump,,Split jump (leg separation 180 deg),1.109,A,1,0,Jumps,,1,1,0,0,0,1
+39,Stag jump,,Stag jump,1.109,A,1,0,Jumps,,0,1,0,0,0,1
+40,Stag jump 1/2,,Stag jump with 1/2 turn (180 deg),1.109,A,1,0,Jumps,,0,1,0,0,0,1
+41,Sissone,,Sissone (leg separation 180 degon the diagonal/45 degto the floor) take off two feet; land on one foot,1.109,A,1,0,Jumps,,1,1,0,0,0,1
+42,Ring jump,,Ring jump (rear foot at head height; body arched and head dropped bwd; 180 deg separation of legs),1.209,B,2,0,Jumps,,1,1,0,0,0,1
+43,Stag ring jump,,Stag ring jump (rear foot at head height; body arched and head dropped bwd),1.209,B,2,0,Jumps,,0,1,0,0,0,1
+44,Split ring jump,,Split jump to ring position (180 deg separation of legs),1.209,B,2,0,Jumps,,1,1,0,0,0,1
+45,Split ring jump 1/2,,Split jump to ring position with 1/2 turn (90û),1.209,B,2,0,Jumps,,1,1,0,0,0,1
+46,Split ring leap,,Split ring leap (180 deg separation of legs),1.309,C,3,0,Leaps,,1,1,0,0,0,0
+47,Split ring leap 1/1,,Split leap to ring position with 1/1 (360) turn,1.409,D,4,0,Leaps,,1,1,0,0,0,1
+48,Split ring jump 1/1,,Split jump to ring position with 1/1 (360) turn,1.409,D,4,0,Jumps,,1,1,0,0,0,1
+49,Stretched jump 1/1,,Stretched hop or jump with 1/1 turn (360 deg),1.21,B,2,0,Jumps,,0,1,0,0,0,0
+50,Stretched jump 2/1,,Stretched hop or jump with 2/1 turn (720 deg),1.31,C,3,0,Jumps,,0,1,0,0,0,0
+51,Leap w/ leg change,,Leap with alternate leg change (knees above horizontal),1.111,A,1,0,Leaps,,0,1,0,0,0,0
+52,Cat leap,,Leap with alternate leg change (knees above horizontal) with 1/1 turn (360¼),1.211,B,2,0,Leaps,,0,1,0,0,0,0
+53,Cat leap 1/1,,Cat leap with 2/1 turn (720 deg),1.311,C,3,0,Leaps,,0,1,0,0,0,0
+54,Fouett-hop,,Hop with 1/2 (180û) turn to land in arabesque with free leg above horizontal,1.112,A,1,0,Hops,,0,1,0,0,0,0
+55,L hop 1/2,,Hop with 1/2 turn (90 deg) free leg extended above horizontal throughout,1.212,B,2,0,Hops,,0,1,0,0,0,0
+56,L hop 1/1,,Hop with 1/1 turn (360 deg); free leg extended above horizontal throughout,1.312,C,3,0,Hops,,0,1,0,0,0,0
+57,Tuck jump 1/1,,Tuck jump with 1/1 turn (360¼),1.213,B,2,0,Jumps,,0,1,0,0,0,1
+58,Tuck hop 1/1,,Tuck hop with 1/1 turn (360¼),1.213,B,2,0,Hops,,0,1,0,0,0,1
+59,Tuck jump 2/1,,Tuck jump with 2/1 turn (720 deg),1.313,C,3,0,Jumps,,0,1,0,0,0,1
+60,Tuck hop 2/1,,Tuck hop with 2/1 turn (720 deg),1.313,C,3,0,Hops,,0,1,0,0,0,1
+61,Tuck jump 2/1 to land,,Tuck jump with 2/1 turn (720 deg) landing in front lying support,1.313,C,3,0,Jumps,,0,0,0,0,0,1
+62,Tuck hop 2/1 to land,,Tuck hop with 2/1 turn (720 deg) landing in front lying support,1.313,C,3,0,Hops,,0,0,0,0,0,1
+63,Wolf jump,,Jump with one leg bent and the other extended straight fwd above horizontal with knees together,1.114,A,1,0,Jumps,,0,1,0,0,0,1
+64,Wolf hop,,Hop with one leg bent and the other extended straight fwd above horizontal with knees together,1.114,A,1,0,Hops,,0,1,0,0,0,1
+65,Wolf jump 1/1,,Wolf jump with 1/1 turn (360 deg) ,1.214,B,2,0,Jumps,,0,1,0,0,0,1
+66,Wolf hop 1/1,,Wolf hop with 1/1 turn (360 deg) ,1.214,B,2,0,Hops,,0,1,0,0,0,1
+67,Wolf jump 1/1 to land,,Wolf jump with 1/1 turn (360 deg) landing in front lying support,1.214,B,2,0,Jumps,,0,0,0,0,0,1
+68,Wolf hop 1/1 to land,,Wolf hop with 1/1 turn (360 deg) landing in front lying support,1.214,B,2,0,Hops,,0,0,0,0,0,1
+69,Wolf jump 2/1,,Wolf jump with 2/1 turn (720 deg),1.414,D,4,0,Jumps,,0,1,0,0,0,1
+70,Wolf hop 2/1,,Wolf hop with 2/1 turn (720 deg),1.414,D,4,0,Hops,,0,1,0,0,0,1
+71,1/1 turn,,1/1 turn (360 deg) on one leg Ð free leg optional below horizontal,2.101,A,1,0,Turns,,0,1,0,0,0,0
+72,2/1 turn,,2/1 turn (720 deg) on one leg Ð free leg optional below horizontal,2.201,B,2,0,Turns,,0,1,0,0,0,0
+73,3/1 turn,,3/1 turn (1080 deg) on one leg Ð free leg optional below horizontal,2.301,C,3,0,Turns,,0,1,0,0,0,0
+74,4/1 turn,Gomez,4/1 turn (1440 deg) on one leg Ð free leg optional below horizontal,2.501,E,5,0,Turns,,0,1,0,0,0,0
+75,1/1 L turn,,1/1 turn (360 deg) with heel of free leg fwd at horizontal throughout turn (support and free leg may be straight or bent),2.202,B,2,0,Turns,,0,1,0,0,0,0
+76,2/1 L turn,,2/1 turn (720 deg) with heel of free leg fwd at horizontal throughout turn (support and free leg may be straight or bent),2.402,D,4,0,Turns,,0,1,0,0,0,0
+77,1/1 Y turn,,1/1 turn (360 deg) with free leg held upward in 180 deg split position throughout turn,2.203,B,2,0,Turns,,0,1,0,0,0,0
+78,2/1 Y turn,Memmel,2/1 turn (720 deg) with free leg held upward in 180 deg split position throughout turn,2.403,D,4,0,Turns,,0,1,0,0,0,0
+79,3/1 Y turn,Mustafina,3/1 turn (1080) with free leg held upward in 180 deg split position throughout turn,2.503,E,5,0,Turns,,0,1,0,0,0,0
+80,1/1 attitude turn,,1/1 turn (360 deg) in back attitude (knee of free leg at horizontal throughout turn),2.204,B,2,0,Turns,,0,1,0,0,0,0
+81,2/1 attitude turn,Semenova,2/1 turn (720 deg) in back attitude (knee of free leg at horizontal throughout turn),2.404,D,4,0,Turns,,0,1,0,0,0,0
+82,Illusion turn,,1/1 illusion turn (360 deg) through standing split without touching floor with hand,2.205,B,2,0,Turns,,0,1,0,0,0,0
+83,1/1 wolf turn,,1/1 turn (360 deg) in tuck stand on one leg - free leg optional,2.106,A,1,0,Turns,,0,1,0,0,0,0
+84,2/1 wolf turn bent,,2/1 turn (720 deg) in tuck stand on one leg Ð free leg bent,2.206,B,2,0,Turns,,0,1,0,0,0,0
+85,2/1 wolf turn straight,,2/1 turn (720 deg) in tuck stand on one leg - free leg straight throughout turn (no turn initiation with a push from hands on floor),2.406,D,4,0,Turns,,0,1,0,0,0,0
+86,3/1 wolf turn,,3/1 turn (1080 deg) in tuck stand on one leg - free leg straight throughout turn (no turn initiation with a push from hands on floor),2.506,E,5,0,Turns,,0,1,0,0,0,0
+87,2/1 back spin,,2/1 spin (720 deg) or more on back in kip position (hip-leg < closed),2.207,B,2,0,Turns,,0,0,0,0,0,0
+88,Front tuck,,Salto fwd tucked,4.101,A,1,1,Forward Saltos,,0,1,0,0,0,0
+89,Front pike,,Salto fwd piked,4.101,A,1,1,Forward Saltos,,0,1,0,0,0,0
+90,Front tuck 1/2,,Salto fwd tucked with 1/2 twist (180 deg),4.201,B,2,1,Forward Saltos,,0,1,0,0,0,0
+91,Front tuck 1/1,,Salto fwd tucked with 1/1 twist (360 deg),4.201,B,2,1,Forward Saltos,,0,1,1,0,0,0
+92,Front pike 1/2,,Salto fwd piked with 1/2 twist (180 deg),4.201,B,2,1,Forward Saltos,,0,1,0,0,0,0
+93,Double front tuck,,Double salto fwd tucked,4.501,E,5,1,Forward Saltos,,0,1,0,1,0,0
+94,Double front 1/2 out,,Double salto fwd tucked with 1/2 twist (180 deg),4.601,F,6,1,Forward Saltos,,0,1,0,1,0,0
+95,Double front pike,Dowell,Double salto fwd piked,4.601,F,6,1,Forward Saltos,,0,1,0,1,0,0
+96,Front layout,,Salto fwd stretched,4.202,B,2,1,Forward Saltos,,0,1,0,0,0,0
+97,Front 1/2 twist,,Salto fwd stretched  with 1/2 twist (180 deg),4.202,B,2,1,Forward Saltos,,0,1,0,0,0,0
+98,Front 1/1 twist,,Salto fwd stretched with 1/1 twist (360 deg),4.302,C,3,1,Forward Saltos,,0,1,1,0,0,0
+99,Front 3/2 twist,Rudi,Salto fwd stretched 1 1/2 twist (540 deg),4.302,C,3,1,Forward Saltos,,0,1,1,0,0,0
+100,Front 2/1 twist,,Salto fwd stretched with 2/1 twist (720 deg),4.402,D,4,1,Forward Saltos,,0,1,1,0,0,0
+101,Front 5/2 twist,Randi,Salto fwd stretched with 2 1/2 twist (900 deg),4.502,E,5,1,Forward Saltos,,0,1,1,0,0,0
+102,Front aerial,,Free (aerial) walkover fwd,4.103,A,1,1,Forward Saltos,,0,1,0,0,1,0
+103,Side aerial,,Free (aerial) cartwheel,4.104,A,1,1,Forward Saltos,,0,1,0,0,1,0
+104,Aerial round-off,,Free (aerial) round-off,4.104,A,1,1,Forward Saltos,,0,1,0,0,1,0
+105,Side salto,,From take-off fwd from one or both legs Ð salto swd tucked or piked,4.105,A,1,1,Forward Saltos,,0,1,0,0,0,0
+106,Arabian tucked,,Arabian salto tucked (take-off bwd with 1/2 twist [180 deg]; salto fwd) Ð landing optional,4.205,B,2,1,Forward Saltos,,0,1,0,0,0,0
+107,Arabian piked,,Arabian salto piked (take-off bwd with 1/2 twist [180 deg]; salto fwd) Ð landing optional,4.205,B,2,1,Forward Saltos,,0,1,0,0,0,0
+108,Double Arabian tucked,,Arabian double salto tucked,4.505,E,5,1,Forward Saltos,,0,1,0,1,0,0
+109,Double Arabian 1/2 out,,Arabian double salto tucked with 1/2 twist (180 deg),4.505,E,5,1,Forward Saltos,,0,1,1,1,0,0
+110,Double Arabian piked,Dos Santos I,Arabian double salto piked,4.605,F,6,1,Forward Saltos,,0,1,0,1,0,0
+111,Double Arabian laid-out,Dos Santos II,Arabian double salto stretched,4.805,H,8,1,Forward Saltos,,0,1,0,1,0,0
+112,Back tuck,,Salto bwd tucked,5.101,A,1,1,Backward Saltos,,0,1,0,0,0,0
+113,Back pike,,Salto bwd piked,5.101,A,1,1,Backward Saltos,,0,1,0,0,0,0
+114,Back layout,,Salto bwd stretched,5.101,A,1,1,Backward Saltos,,0,1,0,0,0,0
+115,1/2 twist,,Salto bwd stretched with 1/2 twist (180 deg),5.201,B,2,1,Backward Saltos,,0,1,0,0,0,0
+116,Full twist tucked,,Salto bwd tucked with 1/1 twist (360 deg),5.201,B,2,1,Backward Saltos,,0,1,1,0,0,0
+117,Full twist laid-out,,Salto bwd stretched with 1/1 twist (360 deg),5.201,B,2,1,Backward Saltos,,0,1,1,0,0,0
+118,3/2 twist,,Salto bwd stretched with 1 1/2 twist (540 deg),5.301,C,3,1,Backward Saltos,,0,1,1,0,0,0
+119,Double twist,,Salto bwd stretched with 2/1 twist (720 deg),5.301,C,3,1,Backward Saltos,,0,1,1,0,0,0
+120,5/2 twist,,Salto bwd stretched with 2 1/2 twist (900 deg),5.401,D,4,1,Backward Saltos,,0,1,1,0,0,0
+121,Triple twist,,Salto bwd stretched with 3/1 twist (1080 deg),5.501,E,5,1,Backward Saltos,,0,1,1,0,0,0
+122,7/2 twist,,Salto bwd stretched with 3 1/2 twist (1260 deg),5.601,F,6,1,Backward Saltos,,0,1,1,0,0,0
+123,Double tuck,,Double salto bwd tucked,5.402,D,4,1,Backward Saltos,,0,1,0,1,0,0
+124,Double pike,,Double salto bwd piked,5.402,D,4,1,Backward Saltos,,0,1,0,1,0,0
+125,Full-twisting double tuck,,Double salto bwd tucked with 1/1 twist (360 deg),5.502,E,5,1,Backward Saltos,,0,1,1,1,0,0
+126,Full-twisting double pike,,Double salto bwd piked with 1/1 twist (360 deg),5.502,E,5,1,Backward Saltos,,0,1,1,1,0,0
+127,Double-twisting double back,Silivas,Double salto bwd tucked with 2/1 twist (720 deg),5.802,H,8,1,Backward Saltos,,0,1,1,1,0,0
+128,Triple-twisting double back,Biles II,Double salto bwd tucked with 3/1 twist (1080 deg),5.1002,J,10,1,Backward Saltos,,0,1,1,1,0,0
+129,Double layout,,Double salto bwd stretched,5.603,F,6,1,Backward Saltos,,0,1,0,1,0,0
+130,Double layout 1/2 out,Biles I,Double Salto bwd stretched with 1/2 twist (180 deg),5.703,G,7,1,Backward Saltos,,0,1,0,1,0,0
+131,Full-twisting double layout,Chusovitina,Double salto bwd stretched with 1/1 twist (360 deg),5.803,H,8,1,Backward Saltos,,0,1,1,1,0,0
+132,Double-twisting double layout,Moors,Double Salto bwd stretched with 2/1 twist (720 deg),5.903,I,9,1,Backward Saltos,,0,1,1,1,0,0
+133,Whip,,Whip salto bwd,5.104,A,1,1,Backward Saltos,,0,1,0,0,0,0
+134,Whip 1/2,,Whip salto bwd with 1/2 twist (180 deg),5.204,B,2,1,Backward Saltos,,0,1,0,0,0,0
+135,Whip 1/1,,Whip salto bwd with 1/1 twist (360 deg),5.304,C,3,1,Backward Saltos,,0,1,1,0,0,0

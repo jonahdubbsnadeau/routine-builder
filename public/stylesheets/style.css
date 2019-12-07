@@ -1,0 +1,336 @@
+/* Sources referenced:
+ * https://www.w3schools.com/css/css3_buttons.asp
+ * https://www.w3schools.com/howto/howto_js_collapsible.asp
+ * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ * https://www.w3schools.com/cssref/pr_background-image.asp
+ * https://stackoverflow.com/questions/9980416/how-can-i-insert-new-line-carriage-returns-into-an-element-textcontent
+ * https://stackoverflow.com/questions/11600687/hover-and-active-only-when-not-disabled
+ * https://www.w3schools.com/cssref/pr_class_cursor.asp
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+/* All Pages */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+
+header {
+    display: flex;
+    height: 10vh;
+    background-color: steelblue;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+.homeLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    width: 25%;
+    padding-left: 1%;
+    font-size: 36px;
+}
+
+.homeLink a:hover {
+    color:#b5cde1
+}
+
+.pageLink {
+    width: 10%;
+}
+
+.pageLink a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 95%;
+    transition: 0.3s;
+}
+
+.pageLink a:hover {
+    color: #b5cde1;
+    border-bottom: 5px solid #b5cde1;
+}
+
+.activeLink a {
+    color: #b5cde1;
+    border-bottom: 5px solid #b5cde1;
+}
+
+h2 {
+    color: steelblue;
+}
+
+main {
+    border-top: 1px solid gray;
+}
+
+main button {
+    border: none;
+    background-color: white;
+    color: steelblue;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+main button:disabled {
+    color: gray;
+    cursor: not-allowed;
+}
+
+main a {
+    color: steelblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+/* Home Page */
+
+#slideshow {
+    height: 90vh;
+    width: 100%;
+    background-image: url('/images/barsStock.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#welcome {
+    padding: 1%;
+    background-color: black;
+    color: white;
+    opacity: 0.75;
+}
+
+#dots {
+    position: absolute;
+    bottom: 0;
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.activeDot, .dot:hover {
+    background-color: gray;
+}
+
+.activeDot {
+    border: 1px solid black;
+}
+
+/* Bars, Beam, Floor */
+
+.pane {
+    height: 90vh;
+}
+
+#leftPane {
+    width: 55%;
+    float: left;
+    border-right: 1px solid gray;
+}
+
+.mainButton {
+    background-color: white;
+    border: 1px solid steelblue;
+    transition: 0.3s;
+}
+
+.mainButton:hover:not([disabled]) {
+    background-color: steelblue;
+    color: white;
+}
+
+.mainButton:disabled {
+    background-color: white;
+    border: 1px solid gray;
+}
+
+#routineEditor {
+    height: 55%;
+    padding: 1%;
+    border-bottom: 1px solid gray;
+}
+
+#skills {
+    height: 92%;
+    overflow: auto;
+}
+
+#skills button {
+    font-size: 20px;
+}
+
+.stack {
+    padding: 10px;
+    border-bottom: 1px dotted gray;
+}
+
+#actions {
+    height: 5%;
+    margin-top: 1%;
+}
+
+#scoreDisplay {
+    height: 40%;
+    padding: 1%;
+    overflow: auto;
+}
+
+#scoreHeader {
+    font-weight: bold;
+}
+
+#scoreTotal {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#scoreDetails {
+    display: none;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+#scoreNotes {
+    white-space: pre-line;
+}
+
+.collapsible {
+    padding: 0;
+}
+
+.collapsible:after {
+    content: '\FF0B';
+    float: right;
+    margin-left: 5px;
+}
+
+.activeIcon:after {
+    content: '\FF0D';
+}
+
+#rightPane {
+    margin-left: 55%;
+    background-color: #f0efed;
+}
+
+#viewNav {
+    height: 4%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#viewContainer {
+    height: 90%;
+    padding: 1%;
+    overflow: auto;
+}
+
+.defaultText {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.interactiveTable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.interactiveCell {
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 1%;
+    transition: 0.3s;
+}
+
+.interactiveCell:hover {
+    background-color: steelblue;
+    color: white;
+}
+
+.skillHeader {
+    font-weight: bold;
+}
+
+/* Resources, Feedback */
+
+.container {
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 85%;
+    overflow: auto;
+}
+
+.split, .noSplit {
+    overflow: auto;
+}
+
+.leftSplit {
+    width: 65%;
+    float: left;
+}
+
+.rightSplit {
+    margin-left: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rules {
+    height: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subrules {
+    width: 31%;
+    overflow: scroll;
+}
+
+#submitForm {
+    background-color: white;
+    color: steelblue;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    border: 1px solid steelblue;
+    transition: 0.3s;
+}
+
+#submitForm:hover {
+    background-color: steelblue;
+    color: white;   
+}

@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="split">
+        <div class="leftSplit">
+            <div>
+                <p>Have a question? Encountering an issue or glitch? Think something should be added or removed? Let us know using the form below.</p>
+            </div>
+
+            <br>
+
+            <div>
+                <form method="post" action="/feedback" id="feedback">
+                    <label for="name">Name (optional):</label>
+                    <br>
+                    <input id="name" name="name" type="text" autocorrect="off" autocomplete="name" size="60" maxlength="255">
+                    <br>
+                    <br>
+                    <label for="email">Email (optional):</label>
+                    <br>
+                    <input id="email" name="email" type="email" autocapitalize="off" autocorrect="off" autocomplete="email" size="60" maxlength="255">
+                    <br>
+                    <br>
+                    <label for"comments">Comments:</label>
+                    <br>
+                    <textarea id="comments" name="comments" form="feedback" rows="5" cols="60" maxlength="64000" required></textarea>
+                    <br>
+                    <br>
+                    <input id="submitForm" type="submit">
+                </form>
+            </div>
+        </div>
+
+        <div class="rightSplit">
+            <!-- Image Source: http://clipart-library.com/clipart/1584134.htm -->
+            <img src="/images/bhs2.jpg">
+        </div>
+    </div>
+</div>
+
+<script src="/js/feedback.js"> </script>

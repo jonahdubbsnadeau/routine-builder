@@ -1,0 +1,39 @@
+<div class="pane" id="leftPane">
+    <div id="routineEditor">
+        <div id="skills"></div>
+        <div id="actions">
+            <button id="addSkill" class="mainButton">Add Skill</button>
+            <button id="restart" class="mainButton">Start Over</button>
+        </div>
+    </div>
+    <div id="scoreDisplay">
+        <div id="scoreHeader">D-Score:</div>
+        <div id="scoreTotal">0.0</div>
+        <button class="collapsible">Details</button>
+        <div id="scoreDetails">
+            <div id="scoreDV">
+                {{#if acroDanceSplit}}
+                <div id="acroDV"></div>
+                <div id="danceDV"></div>
+                <div id="dismountDV"></div>
+                {{/if}}
+            </div>
+            <div id="scoreCV"></div>
+            <div id="scoreCR"></div>
+            <div id="scoreNotes"></div>
+        </div>
+    </div>
+</div>
+
+<div class="pane" id="rightPane">
+    <div class="right" id="viewNav">
+    </div>
+    <div class="right" id="viewContainer">
+        <div class="defaultText">
+            <p>As you add skills to your routine, your options will appear here.</p>
+        </div>
+    </div>
+</div>
+
+<script src="/js/general.js"></script>
+<script src={{script}}></script>

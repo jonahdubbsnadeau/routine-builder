@@ -1,0 +1,26 @@
+<!-- Source referenced for preload: https://stackoverflow.com/a/41788523 -->
+<link rel="preload" as="image" href="/images/barsStock.jpeg">
+<link rel="preload" as="image" href="/images/beamStock.jpeg">
+<link rel="preload" as="image" href="/images/floorStock.jpeg">
+
+<div id="slideshow">
+    <div id="welcome">
+        <h1>Welcome!</h1>
+        <p>With Routine Builder you can:</p>
+        <ul>
+            <li>Create custom gymnastics routines</li>
+            <li>Calculate the D-Scores for your custom routines</li>
+            <li>Learn more about gymnastics and the Code of Points</li>
+        </ul>
+        <p>Click an apparataus above to get started.</p>
+    </div>
+
+    <!-- Source referenced: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow -->
+    <div id="dots">
+        <span class="dot" id="dot1" onclick="showSlide(0)"></span>
+        <span class="dot" id="dot2" onclick="showSlide(1)"></span>
+        <span class="dot" id="dot3" onclick="showSlide(2)"></span>
+    </div>
+</div>
+
+<script src="/js/slideshow.js"></script>

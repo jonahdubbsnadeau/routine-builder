@@ -16,7 +16,7 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 14,Cast 3/2,,Cast with 1 1/2 turn (540 deg) to hstd,2.401,D,4,Casts,,,1,1,either,same,either,other,regular,regular,0
 15,Cast 3/2 to reverse grip,,Cast with 1 1/2 turn (540 deg) to hstd,2.401,D,4,Casts,,,1,1,either,same,either,other,regular,reverse,0
 16,Cast 3/2 to L grip,,Cast with 1 1/2 turn (540 deg) to hstd,2.401,D,4,Casts,,,1,1,either,same,either,other,regular,L,0
-17,Comaneci,,Front support on HB Ð cast with salto fwd straddled to hang on HB,2.503,E,5,Release Moves,,,0,0,high,same,either,same,regular,regular,0
+17,Comaneci,,Front support on HB ï¿½ cast with salto fwd straddled to hang on HB,2.503,E,5,Release Moves,,,0,0,high,same,either,same,regular,regular,0
 18,Clear hip fwd,Weiler,Clear hip circle fwd to hstd,2.404,D,4,Pirouettes,,Clear hip fwd,0,0,either,same,either,same,reverse/L,reverse/L,0
 19,Clear hip fwd 1/2,Weiler 1/2,Clear hip circle fwd to hstd with 1/2 turn (180 deg) in hstd phase,2.404,D,4,Pirouettes,,Clear hip fwd,1,0,either,same,either,other,reverse/L,regular,0
 20,Clear hip bwd,,Clear hip circle to hstd,2.305,C,3,Pirouettes,,Clear hip bwd,0,0,either,same,either,same,regular,regular,0
@@ -29,13 +29,13 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 27,Clear hip bwd 3/2,,Clear hip circle with 1 1/2 turn (540 deg) to hstd,2.505,E,5,Pirouettes,,Clear hip bwd,1,1,either,same,either,other,regular,regular,0
 28,Clear hip bwd 3/2 to reverse grip,,Clear hip circle with 1 1/2 turn (540 deg) to hstd,2.505,E,5,Pirouettes,,Clear hip bwd,1,1,either,same,either,other,regular,reverse,0
 29,Clear hip bwd 3/2 to L grip,,Clear hip circle with 1 1/2 turn (540 deg) to hstd,2.505,E,5,Pirouettes,,Clear hip bwd,1,1,either,same,either,other,regular,L,0
-30,Clear hip shoot to HB,,Clear underswing on LB -Ê release and counter movement fwd in flight to hang on HB,2.206,B,2,Transitions,,Clear hip bwd,0,0,low,other,high,same,regular,regular,0
-31,Clear hip Shaposh,Shaposhnikova,Inner front support on LB Ð clear hip circle through hstd with flight to hang on HB,2.406,D,4,Transitions,,Clear hip bwd,0,0,low,other,low,same,regular,regular,1
+30,Clear hip shoot to HB,,Clear underswing on LB -ï¿½ release and counter movement fwd in flight to hang on HB,2.206,B,2,Transitions,,Clear hip bwd,0,0,low,other,high,same,regular,regular,0
+31,Clear hip Shaposh,Shaposhnikova,Inner front support on LB ï¿½ clear hip circle through hstd with flight to hang on HB,2.406,D,4,Transitions,,Clear hip bwd,0,0,low,other,low,same,regular,regular,1
 32,Clear hip Tkatchev,Hindorff,Clear hip circle on HB - counter straddle over HB to hang on HB,2.506,E,5,Release Moves,,Clear hip bwd,0,0,high,same,either,same,regular,regular,0
 33,Clear hip Shaposh 1/2,Khorkina,Clear hip circle through hstd with 1/2 turn (180 deg) in flight to hang on HB,2.506,E,5,Transitions,,Clear hip bwd,1,0,low,other,low,other,regular,regular,0
 34,Clear hip piked Tkatchev,Shang,Clear hip circle on HB - counter pike over HB to hang on HB,2.606,F,6,Release Moves,,Clear hip bwd,0,0,high,same,either,same,regular,regular,0
-35,Clear hip hecht,,Outer front support Ð clear hip circle bwd on LB with hecht to hang on HB (legs together or straddled),2.307,C,3,Transitions,,Clear hip bwd,0,0,low,other,high,same,regular,regular,0
-36,Clear hip hecht 1/2,,Outer front support Ð clear hip circle bwd on LB with hecht to hang on HB with 1/2 turn (180 deg) (legs together or straddled),2.307,C,3,Transitions,,Clear hip bwd,1,0,low,other,high,other,regular,regular,0
+35,Clear hip hecht,,Outer front support ï¿½ clear hip circle bwd on LB with hecht to hang on HB (legs together or straddled),2.307,C,3,Transitions,,Clear hip bwd,0,0,low,other,high,same,regular,regular,0
+36,Clear hip hecht 1/2,,Outer front support ï¿½ clear hip circle bwd on LB with hecht to hang on HB with 1/2 turn (180 deg) (legs together or straddled),2.307,C,3,Transitions,,Clear hip bwd,1,0,low,other,high,other,regular,regular,0
 37,Giant bwd,,Giant circle bwd in regular grip,3.201,B,2,Pirouettes,,Giant,0,0,high,same,either,same,regular,regular,0
 38,One-armed giant bwd,,Giant circle bwd in regular grip on one arm,3.201,B,2,Pirouettes,,Giant,0,0,high,same,either,same,regular,regular,0
 39,Giant bwd 1/2,,Giant circle bwd with 1/2 turn (180 deg) to hstd,3.201,B,2,Pirouettes,,Giant,1,0,high,same,either,other,regular,regular,0
@@ -47,20 +47,20 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 45,Giant bwd 3/2 to L grip,,Giant circle bwd with 1 1/2 turn (540 deg) to hstd,3.401,D,4,Pirouettes,,Giant,1,1,high,same,either,other,regular,L,0
 46,Giant bwd 2/1,,Giant circle bwd with 2/1 turn (720 deg) to hstd,3.401,D,4,Pirouettes,,Giant,1,1,high,same,either,same,regular,regular,0
 47,Giant bwd hop 1/1,,Giant circle bwd with hop 1/1 turn (360 deg) to hstd,3.401,D,4,Pirouettes,,Giant,1,1,high,same,either,same,regular,regular,0
-48,Bail to LB,,Hang on HB Ð Swing fwd with 1/2 turn (180 deg) and flight to hstd,3.402,D,4,Transitions,,Giant,1,0,high,other,low,other,regular,regular,0
-49,Bail 1/1,Strong,Hang on HB Ð Swing fwd with 1 1/2 turn (540 deg) and flight over LB to hang on LB,3.502,E,5,Transitions,,Giant,1,0,high,other,low,other,regular,regular,0
+48,Bail to LB,,Hang on HB ï¿½ Swing fwd with 1/2 turn (180 deg) and flight to hstd,3.402,D,4,Transitions,,Giant,1,0,high,other,low,other,regular,regular,0
+49,Bail 1/1,Strong,Hang on HB ï¿½ Swing fwd with 1 1/2 turn (540 deg) and flight over LB to hang on LB,3.502,E,5,Transitions,,Giant,1,0,high,other,low,other,regular,regular,0
 50,Tkatchev,,Long swing fwd - counter straddle reverse hecht over HB to hang,3.403,D,4,Release Moves,,Giant,0,0,high,same,either,same,regular,regular,0
 51,Piked Tkatchev,,Tkatchev piked,3.503,E,5,Release Moves,,Giant,0,0,high,same,either,same,regular,regular,0
 52,Tkatchev 1/2,,Tkatchev with 1/2 turn (180 deg),3.503,E,5,Release Moves,,Giant,1,0,high,same,either,other,regular,reverse/L,0
 53,Shushunova,,Long swing fwd with 1/2 turn (180 deg) - 1/2 turn (180 deg) to counter straddle in flight over HB to hang,3.503,E,5,Release Moves,,Giant,1,0,high,same,either,same,regular,regular,0
-54,Pak salto,,Hang on HB facing LB Ð swing fwd; salto bwd stretched between bars to clear support on LB,3.404,D,4,Transitions,,Giant,0,0,high,other,low,same,regular,regular,0
+54,Pak salto,,Hang on HB facing LB ï¿½ swing fwd; salto bwd stretched between bars to clear support on LB,3.404,D,4,Transitions,,Giant,0,0,high,other,low,same,regular,regular,0
 55,Pak 1/1,Bhardwaj,Pak Salto with 1/1 turn (360 deg),3.504,E,5,Transitions,,Giant,1,0,high,other,low,same,regular,regular,0
 56,Counter-Kim,,Facing outward on HB - swing fwd and counter salto fwd with legs straddled to catch HB in reverse grip,3.604,F,6,Release Moves,,Giant,0,0,high,same,either,same,regular,reverse/L,0
-57,Deltchev,,Swing fwd with 1/2 turn (180 deg) and salto fwd straddled Ð to hang on HB,3.405,D,4,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
-58,Piked Gienger,,Swing fwd and salto bwd with 1/2 turn (180 deg) piked Ð to hang on HB,3.405,D,4,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
+57,Deltchev,,Swing fwd with 1/2 turn (180 deg) and salto fwd straddled ï¿½ to hang on HB,3.405,D,4,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
+58,Piked Gienger,,Swing fwd and salto bwd with 1/2 turn (180 deg) piked ï¿½ to hang on HB,3.405,D,4,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
 59,Laid-out Gienger,,Swing fwd and salto bwd with 1/2 turn (180 deg) stretched to hang on HB,3.505,E,5,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
 60,Gienger 1/1,Def,Swing fwd and salto bwd stretched with 1 1/2 turn (540 deg) to hang on HB,3.705,G,7,Release Moves,,Giant,1,0,high,same,either,other,regular,regular,0
-61,Giant circle fwdÊ,,Giant circle fwd in reverse grip to hstd,3.206,B,2,Pirouettes,,Giant,0,0,high,same,either,same,reverse,reverse,0
+61,Giant circle fwdï¿½,,Giant circle fwd in reverse grip to hstd,3.206,B,2,Pirouettes,,Giant,0,0,high,same,either,same,reverse,reverse,0
 62,Giant circle fwd 1/2,,Giant circle fwd in reverse grip 1/2 turn (180 deg) to hstd,3.206,B,2,Pirouettes,,Giant,1,0,high,same,either,other,reverse,regular,0
 63,Giant circle fwd 1/1,,Giant circle fwd with 1/1 turn (360 deg) to hstd,3.306,C,3,Pirouettes,,Giant,1,1,high,same,either,same,reverse,reverse,0
 64,Giant circle fwd 3/2,,Giant circle fwd in reverse grip with 1 1/2 turn (540 deg) to hstd,3.506,E,5,Pirouettes,,Giant,1,1,high,same,either,other,reverse,regular,0
@@ -86,9 +86,9 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 84,Stalder fwd 1/2,Endo 1/2,Stalder fwd with 1/2 turn (180 deg) to hstd,4.301,C,3,Pirouettes,,Stalder fwd,1,0,either,same,either,other,reverse,regular,0
 85,Stalder fwd 1/1,Endo 1/1,Stalder fwd with 1/1 turn (360 deg) to hstd,4.401,D,4,Pirouettes,,Stalder fwd,1,1,either,same,either,same,reverse,reverse,0
 86,Stalder Tkatchev,Ricna,Clear straddle circle bwd on HB with flight fwd to hstd on LB,4.502,E,5,Release Moves,,Stalder bwd,0,0,high,same,either,same,regular,regular,0
-87,Inbar Tkatchev,Galante,Clear pike Circle bwd with counter straddle (open hip before flight) Ð reverse Hecht over HB to hang,4.502,E,5,Release Moves,,Inbar bwd,0,0,high,same,either,same,regular,regular,0
+87,Inbar Tkatchev,Galante,Clear pike Circle bwd with counter straddle (open hip before flight) ï¿½ reverse Hecht over HB to hang,4.502,E,5,Release Moves,,Inbar bwd,0,0,high,same,either,same,regular,regular,0
 88,Stalder piked Tkatchev,Downie,Stalder bwd on HB with counter pike - reverse hecht over HB to hang,4.602,F,6,Release Moves,,Stalder bwd,0,0,high,same,either,same,regular,regular,0
-89,Inbar piked Tkatchev,Simm-Scheder,Clear pike Circle bwd with counter pike Ð reverse Hecht over HB to hang,4.602,F,6,Release Moves,,Inbar bwd,0,0,high,same,either,same,regular,regular,0
+89,Inbar piked Tkatchev,Simm-Scheder,Clear pike Circle bwd with counter pike ï¿½ reverse Hecht over HB to hang,4.602,F,6,Release Moves,,Inbar bwd,0,0,high,same,either,same,regular,regular,0
 90,Endo in L grip,,Stalder fwd in L grip to hstd,4.403,D,4,Pirouettes,,Stalder fwd,0,0,either,same,either,same,L,L,0
 91,Endo 1/2 in L grip,,Stalder fwd in L grip with 1/2 turn (180 deg) to hstd,4.403,D,4,Pirouettes,,Stalder fwd,1,0,either,same,either,other,L,regular,0
 92,Endo 1/1 in L grip,,Stalder fwd in L grip with 1/1 turn (360 deg) to hstd (any technique accepted),4.503,E,5,Pirouettes,,Stalder fwd,1,1,either,same,either,same,L,L,0
@@ -102,9 +102,9 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 100,Stalder bwd 3/2,,Stalder bwd with 1 1/2 turn (540 deg) to hstd,4.504,E,5,Pirouettes,,Stalder bwd,1,1,either,same,either,other,regular,regular,0
 101,Stalder bwd 3/2 to reverse grip,,Stalder bwd with 1 1/2 turn (540 deg) to hstd,4.504,E,5,Pirouettes,,Stalder bwd,1,1,either,same,either,other,regular,reverse,0
 102,Stalder bwd 3/2 to L grip,,Stalder bwd with 1 1/2 turn (540 deg) to hstd,4.504,E,5,Pirouettes,,Stalder bwd,1,1,either,same,either,other,regular,L,0
-103,Stalder shoot to HB,Ray,Facing inward Ð Stalder bwd with release and counter movement fwd in flight to hang on HB,4.205,B,2,Transitions,,Stalder bwd,0,0,low,other,high,same,regular,regular,0
-104,Stalder hecht,,Facing inward Ð Stalder bwd with hecht flight to hang on HB,4.305,C,3,Transitions,,Stalder bwd,0,0,low,other,high,same,regular,regular,0
-105,Stalder Shaposh,Chow,Facing outward Ð Stalder bwd through hstd with flight to hang on HB,4.405,D,4,Transitions,,Stalder bwd,0,0,low,other,low,same,regular,regular,1
+103,Stalder shoot to HB,Ray,Facing inward ï¿½ Stalder bwd with release and counter movement fwd in flight to hang on HB,4.205,B,2,Transitions,,Stalder bwd,0,0,low,other,high,same,regular,regular,0
+104,Stalder hecht,,Facing inward ï¿½ Stalder bwd with hecht flight to hang on HB,4.305,C,3,Transitions,,Stalder bwd,0,0,low,other,high,same,regular,regular,0
+105,Stalder Shaposh,Chow,Facing outward ï¿½ Stalder bwd through hstd with flight to hang on HB,4.405,D,4,Transitions,,Stalder bwd,0,0,low,other,low,same,regular,regular,1
 106,Stalder Shaposh 1/2,Chow 1/2,Stalder bwd through hstd with flight and 1/2 turn (180 deg) to hang on HB,4.505,E,5,Transitions,,Stalder bwd,1,0,low,other,low,other,regular,regular,0
 107,Inbar fwd,,Clear pike circle fwd to hstd,4.406,D,4,Pirouettes,,Inbar fwd,0,0,either,same,either,same,reverse/L,reverse/L,0
 108,Inbar fwd 1/2,,Clear pike circle fwd with 1/2 turn (180 deg) to hstd,4.406,D,4,Pirouettes,,Inbar fwd,1,0,either,same,either,other,reverse/L,regular,0
@@ -125,46 +125,46 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 123,Toe-on fwd 1/2 in L grip,,Pike sole circle fwd in L grip with 1/2 turn (180 deg),5.306,C,3,Pirouettes,,Toe-on fwd,1,0,either,same,either,other,L,regular,0
 124,Toe-on fwd 1/1 in L grip,,Pike sole circle fwd in L grip with 1/1 turn (360 deg) to hstd,5.406,D,4,Pirouettes,,Toe-on fwd,1,1,either,same,either,same,L,L,0
 125,Toe-on shoot to HB,,Underswing on LB (support of feet) with counter movement fwd in flight to hang on HB,5.207,B,2,Transitions,,Toe-on bwd,0,0,low,other,high,same,regular,regular,0
-126,Toe-on Counter-Kim,,Facing outward on HBÐunderswing with support of feet-counter salto fwd straddled to catch on HB,5.607,F,6,Release Moves,,Toe-on bwd,0,0,high,same,high,same,regular,reverse/L,0
+126,Toe-on Counter-Kim,,Facing outward on HBï¿½underswing with support of feet-counter salto fwd straddled to catch on HB,5.607,F,6,Release Moves,,Toe-on bwd,0,0,high,same,high,same,regular,reverse/L,0
 127,Toe-on bwd,,Pike sole circle bwd to hstd,5.308,C,3,Pirouettes,,Toe-on bwd,0,0,either,same,either,same,regular,regular,0
 128,Toe-on bwd w/ grip change,,Pike sole circle bwd to hstd with hop-grip change to reverse grip in hstd phase,5.308,C,3,Pirouettes,,Toe-on bwd,0,0,either,same,either,same,regular,reverse/L,0
 129,Toe-on bwd 1/2,,Pike sole circle bwd to hstd with 1/2 turn (180 deg),5.308,C,3,Pirouettes,,Toe-on bwd,1,0,either,same,either,other,regular,reverse/L,0
 130,Toe-on bwd 1/1,,Pike sole circle bwd with 1/1 turn (360 deg) to hstd,5.408,D,4,Pirouettes,,Toe-on bwd,1,1,either,same,either,same,regular,regular,0
-131,Toe-on bwd 3/2,,Pike sole circle bwd with 1 1/2 turn (540 deg) to hstd,5.508,E,5,Pirouettes,,Toe-on bwd,1,1,eitherÊ,same,either,other,regular,reverse/L,0
-132,Toe-on Shaposh,Maloney,Inner front support on LB Ð pike sole circle bwd through hstd with flight to hang on HB,5.409,D,4,Transitions,,Toe-on bwd,0,0,low,other,low,same,regular,regular,1
-133,Toe-on Shaposn 1/2,Van Leeuwen,Facing outward on LB Ð pike sole circle bwd through hstd with flight and 1/2 turn (180 deg) hang on HB,5.509,E,5,Transitions,,Toe-on bwd,1,0,low,other,low,other,regular,regular,0
-134,Toe-on Shaposh 1/1,Seitz,Facing outward on LB Ð pike sole circle bwd through hstd with flight and 1/1 turn (360 deg) to hang on HB,5.509,E,5,Transitions,,Toe-on bwd,1,0,low,other,low,same,regular,regular,1
+131,Toe-on bwd 3/2,,Pike sole circle bwd with 1 1/2 turn (540 deg) to hstd,5.508,E,5,Pirouettes,,Toe-on bwd,1,1,eitherï¿½,same,either,other,regular,reverse/L,0
+132,Toe-on Shaposh,Maloney,Inner front support on LB ï¿½ pike sole circle bwd through hstd with flight to hang on HB,5.409,D,4,Transitions,,Toe-on bwd,0,0,low,other,low,same,regular,regular,1
+133,Toe-on Shaposn 1/2,Van Leeuwen,Facing outward on LB ï¿½ pike sole circle bwd through hstd with flight and 1/2 turn (180 deg) hang on HB,5.509,E,5,Transitions,,Toe-on bwd,1,0,low,other,low,other,regular,regular,0
+134,Toe-on Shaposh 1/1,Seitz,Facing outward on LB ï¿½ pike sole circle bwd through hstd with flight and 1/1 turn (360 deg) to hang on HB,5.509,E,5,Transitions,,Toe-on bwd,1,0,low,other,low,same,regular,regular,1
 135,Toe-on Tkatchev,Ray,Pike sole circle bwd counter straddle-reverse hecht over HB to hang,5.41,D,4,Release Moves,,Toe-on bwd,0,0,high,same,either,same,regular,regular,0
 136,Toe-on piked Tkatchev,Church,Pike sole circle bwd counter pike hecht over HB to hang,5.51,E,5,Release Moves,,Toe-on bwd,0,0,high,same,either,same,regular,regular,0
 137,Toe-on Tkatchev 1/2,Tweddle,Pike sole circle bwd with counter straddle hecht over HB with 1/2 turn (180 deg) to hang in mixed L-grip,5.61,F,6,Release Moves,,Toe-on bwd,1,0,high,same,either,other,regular,reverse/L,0
-138,Toe-on laid-out Tkatchev,Nabieva,Pike sole circle bwd with counter stretched Ð reverse hecht in layout position over HB to hang,5.71,G,7,Release Moves,,Toe-on bwd,0,0,high,same,either,same,regular,regular,0
-139,Toe-on bwd to 1/2 turn,,From HB Ð underswing with 1/2 turn (180 deg) to stand,6.101,A,1,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-140,Toe-on bwd to 1/1 turn,,From HB Ð underswing with 1/1 turn (360 deg) to stand,6.101,A,1,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-141,Toe-on bwd to front tuck,,From HB Ð underswing with salto fwd tucked or piked,6.201,B,2,Dismounts,,Toe-on bwd,0,0,high,,high,,regular,,0
-142,Toe-on bwd to front pike,,From HB Ð underswing with salto fwd piked,6.201,B,2,Dismounts,,Toe-on bwd,0,0,high,,high,,regular,,0
-143,Toe-on bwd to front tuck 1/2,,From HB Ð underswing with salto fwd tucked with 1/2 turn (180 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-144,Toe-on bwd to front pike 1/2,,From HB Ð underswing with salto fwd piked with 1/2 turn (180 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-145,Toe-on bwd to front tuck 1/1,,From HB Ð underswing with salto fwd tucked with 1/1 turn (360 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-146,Toe-on bwd to front pike 1/1,,From HB Ð underswing with salto fwd piked with 1/1 turn (360 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-147,Toe-on bwd to front tuck 3/2,,From HB Ð underswing with salto fwd tucked with 1 1/2 turn (540 deg),6.401,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-148,Toe-on bwd to front layout 1/2,,From HB Ð underswing with salto fwd stretched with 1 1/2 turn (540 deg),6.401,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-149,Clear hip bwd to 1/2 turn,,From HB Ð clear underswing with 1/2 turn (180 deg) to stand,6.102,A,1,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-150,Clear hip bwd to 1/1 turn,,From HB Ð clear underswing with 1/1 turn (360 deg) to stand,6.102,A,1,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-151,Clear hip bwd to front tuck,,From HB Ð clear underswing with salto fwd tucked,6.302,C,3,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
-152,Clear hip bwd to front pike,,From HB Ð clear underswing with salto fwd piked,6.302,C,3,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
-153,Clear hip bwd to front tuck 1/2,,From HB Ð clear underswing with salto fwd tucked with 1/2 turn (180 deg),6.302,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-154,Clear hip bwd to front tuck 1/1,,From HB Ð clear underswing with salto fwd piked with 1/2 turn (180 deg),6.302,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+138,Toe-on laid-out Tkatchev,Nabieva,Pike sole circle bwd with counter stretched ï¿½ reverse hecht in layout position over HB to hang,5.71,G,7,Release Moves,,Toe-on bwd,0,0,high,same,either,same,regular,regular,0
+139,Toe-on bwd to 1/2 turn,,From HB ï¿½ underswing with 1/2 turn (180 deg) to stand,6.101,A,1,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+140,Toe-on bwd to 1/1 turn,,From HB ï¿½ underswing with 1/1 turn (360 deg) to stand,6.101,A,1,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+141,Toe-on bwd to front tuck,,From HB ï¿½ underswing with salto fwd tucked or piked,6.201,B,2,Dismounts,,Toe-on bwd,0,0,high,,high,,regular,,0
+142,Toe-on bwd to front pike,,From HB ï¿½ underswing with salto fwd piked,6.201,B,2,Dismounts,,Toe-on bwd,0,0,high,,high,,regular,,0
+143,Toe-on bwd to front tuck 1/2,,From HB ï¿½ underswing with salto fwd tucked with 1/2 turn (180 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+144,Toe-on bwd to front pike 1/2,,From HB ï¿½ underswing with salto fwd piked with 1/2 turn (180 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+145,Toe-on bwd to front tuck 1/1,,From HB ï¿½ underswing with salto fwd tucked with 1/1 turn (360 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+146,Toe-on bwd to front pike 1/1,,From HB ï¿½ underswing with salto fwd piked with 1/1 turn (360 deg),6.301,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+147,Toe-on bwd to front tuck 3/2,,From HB ï¿½ underswing with salto fwd tucked with 1 1/2 turn (540 deg),6.401,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+148,Toe-on bwd to front layout 1/2,,From HB ï¿½ underswing with salto fwd stretched with 1 1/2 turn (540 deg),6.401,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+149,Clear hip bwd to 1/2 turn,,From HB ï¿½ clear underswing with 1/2 turn (180 deg) to stand,6.102,A,1,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+150,Clear hip bwd to 1/1 turn,,From HB ï¿½ clear underswing with 1/1 turn (360 deg) to stand,6.102,A,1,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+151,Clear hip bwd to front tuck,,From HB ï¿½ clear underswing with salto fwd tucked,6.302,C,3,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
+152,Clear hip bwd to front pike,,From HB ï¿½ clear underswing with salto fwd piked,6.302,C,3,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
+153,Clear hip bwd to front tuck 1/2,,From HB ï¿½ clear underswing with salto fwd tucked with 1/2 turn (180 deg),6.302,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+154,Clear hip bwd to front tuck 1/1,,From HB ï¿½ clear underswing with salto fwd piked with 1/2 turn (180 deg),6.302,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
 155,Stalder to front tuck,,Clear straddle circle with salto fwd tucked,6.302,C,3,Dismounts,,Stalder bwd,0,0,high,,high,,regular,,0
-156,Clear hip bwd to front tuck 1/1,,From HB Ð clear underswing with salto fwd tucked with 1/1 turn (360 deg),6.402,D,4,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+156,Clear hip bwd to front tuck 1/1,,From HB ï¿½ clear underswing with salto fwd tucked with 1/1 turn (360 deg),6.402,D,4,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
 157,Inbar bwd to front layout 1/2,,Clear Pike underswing to salto forward stretched with 1/2 turn (180 deg),6.402,D,4,Dismounts,,Inbar bwd,1,0,high,,high,,regular,,0
-158,Clear hip bwd to front tuck 3/2,,From HB Ð clear underswing with salto fwd tucked with 1 1/2 turn (540 deg),6.502,E,5,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-159,Toe-on bwd 1/2 turn to back tuck,,From HB Ð underswing with 1/2 turn (180 deg) to salto bwd tucked,6.303,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-160,Toe-on bwd 1/2 turn to back pike,,From HB Ð underswing with 1/2 turn (180 deg) to salto bwd piked,6.303,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-161,Clear hip bwd 1/2 turn to back tuck,,From HB Ð clear underswing with 1/2 turn (180 deg) to salto bwd tucked,6.303,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-162,Clear hip bwd 1/2 turn to back pike,,From HB Ð clear underswing with 1/2 turn (180 deg) to salto bwd piked,6.303,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-163,Toe-on bwd 1/2 turn to back layout,,From HB Ð underswing with 1/2 turn (180 deg) to salto bwd stretched,6.403,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
-164,Clear hip bwd 1/2 turn to back layout,,From HB Ð clear underswing with 1/2 turn (180 deg) to salto bwd stretched,6.403,D,4,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-165,Toe-on bwd 1/2 turn to back tuck 1/1,,From HB Ð underswing with 1/2 turn (180 deg) to salto bwd tucked with 1/1 twist (360 deg),6.403,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+158,Clear hip bwd to front tuck 3/2,,From HB ï¿½ clear underswing with salto fwd tucked with 1 1/2 turn (540 deg),6.502,E,5,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+159,Toe-on bwd 1/2 turn to back tuck,,From HB ï¿½ underswing with 1/2 turn (180 deg) to salto bwd tucked,6.303,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+160,Toe-on bwd 1/2 turn to back pike,,From HB ï¿½ underswing with 1/2 turn (180 deg) to salto bwd piked,6.303,C,3,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+161,Clear hip bwd 1/2 turn to back tuck,,From HB ï¿½ clear underswing with 1/2 turn (180 deg) to salto bwd tucked,6.303,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+162,Clear hip bwd 1/2 turn to back pike,,From HB ï¿½ clear underswing with 1/2 turn (180 deg) to salto bwd piked,6.303,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+163,Toe-on bwd 1/2 turn to back layout,,From HB ï¿½ underswing with 1/2 turn (180 deg) to salto bwd stretched,6.403,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
+164,Clear hip bwd 1/2 turn to back layout,,From HB ï¿½ clear underswing with 1/2 turn (180 deg) to salto bwd stretched,6.403,D,4,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+165,Toe-on bwd 1/2 turn to back tuck 1/1,,From HB ï¿½ underswing with 1/2 turn (180 deg) to salto bwd tucked with 1/1 twist (360 deg),6.403,D,4,Dismounts,,Toe-on bwd,1,0,high,,high,,regular,,0
 166,Flyaway,,Swing fwd to salto bwd tucked piked or stretched,6.104,A,1,Dismounts,,Giant,0,0,high,,high,,regular,,0
 167,1/2 twist,,Swing fwd to salto bwd tucked or stretched with 1/2 turn (180 deg),6.204,B,2,Dismounts,,Giant,1,0,high,,high,,regular,,0
 168,Full twist,,Swing fwd to salto bwd tucked or stretched with 1/1 turn (360 deg),6.204,B,2,Dismounts,,Giant,1,0,high,,high,,regular,,0
@@ -181,9 +181,9 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 179,Double layout,,Swing fwd to double salto bwd stretched,6.406,D,4,Dismounts,,Giant,0,0,high,,high,,regular,,0
 180,Full-twisting double layout,,Swing fwd to double salto bwd stretched with 1/1 turn (360 deg) in first or second salto,6.506,E,5,Dismounts,,Giant,1,0,high,,high,,regular,,0
 181,Double-twisting double layout,Ray,Swing fwd to double salto bwd stretched with 2/1 turn (720 deg),6.706,G,7,Dismounts,,Giant,1,0,high,,high,,regular,,0
-182,Back tuck 1/2 into front tuck,,Swing fwd to salto bwd tucked with 1/2 turn (180 deg) Ð into salto fwd tucked,6.407,D,4,Dismounts,,Giant,1,0,high,,high,,regular,,0
+182,Back tuck 1/2 into front tuck,,Swing fwd to salto bwd tucked with 1/2 turn (180 deg) ï¿½ into salto fwd tucked,6.407,D,4,Dismounts,,Giant,1,0,high,,high,,regular,,0
 183,Double Arabian tucked,,Swing fwd with 1/2 turn (180 deg) to double salto fwd tucked,6.407,D,4,Dismounts,,Giant,1,0,high,,high,,regular,,0
-184,Back layout 1/2 into front layout,,Swing fwd to salto bwd stretched with 1/2 turn (180 deg) Ð into salto fwd stretched,6.507,E,5,Dismounts,,Giant,1,0,high,,high,,regular,,0
+184,Back layout 1/2 into front layout,,Swing fwd to salto bwd stretched with 1/2 turn (180 deg) ï¿½ into salto fwd stretched,6.507,E,5,Dismounts,,Giant,1,0,high,,high,,regular,,0
 185,Double Arabian piked,,Swing fwd with 1/2 turn (180 deg) to double salto fwd piked,6.507,E,5,Dismounts,,Giant,1,0,high,,high,,regular,,0
 186,Triple back,Magana,Swing fwd to triple salto bwd tucked,6.707,G,7,Dismounts,,Giant,0,0,high,,high,,regular,,0
 187,Front tuck,,Swing bwd to salto fwd tucked,6.108,A,1,Dismounts,,Giant,0,0,high,,low,,reverse/L,,0
@@ -200,17 +200,17 @@ id,name,nickname,description,code,alphaVal,numVal,cat,subcat,root,halfTurn,fullT
 198,Double front tuck 1/2 out,,Swing bwd to double salto fwd tucked with 1/2 turn (180 deg),6.508,E,5,Dismounts,,Giant,1,0,high,,low,,reverse/L,,0
 199,Front tuck 1/2 into back tuck,,Swing bwd to salto fwd with 1/2 turn (180 deg) into salto bwd tucked,6.508,E,5,Dismounts,,Giant,1,0,high,,low,,reverse/L,,0
 200,Double front pike 1/2 out,,Swing bwd to double salto fwd piked with 1/2 turn (180 deg),6.608,F,6,Dismounts,,Giant,1,0,high,,low,,reverse/L,,0
-201,Hip circle on LB to hecht,,Hip circle bwd (also clear) on LB Ð hecht,6.209,B,2,Dismounts,,Clear hip bwd,0,0,low,,low,,regular,,0
-202,Hip circle on HB to hecht,,Hip circle bwd (also clear) on HB Ð hecht,6.209,B,2,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
-203,Hip circle on LB to hecht 1/1,,Hip circle bwd (also clear) on LB Ð hecht with 1/1 turn (360 deg),6.309,C,3,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
-204,Hip circle on HB to hecht 1/1,,Hip circle bwd (also clear) on HB Ð hecht with 1/1 turn (360 deg),6.309,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-205,Hip circle on LB to hecht back tuck,,Hip circle bwd (also clear) on LB Ð hecht with salto bwd tucked,6.409,D,4,Dismounts,,Clear hip bwd,0,0,low,,low,,regular,,0
-206,Hip circle on HB to hecht back tuck,,Hip circle bwd (also clear) on HB Ð hecht with salto bwd tucked,6.409,D,4,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
-207,Hip circle on LB to hecht 1/2 to front tuck,,Hip circle bwd (also clear) on LB Ð hecht with 1/2 turn (180 deg) to salto fwd,6.509,E,5,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
-208,Hip circle on HB to hecht 1/2 to front tuck,,Hip circle bwd (also clear) on HB Ð hecht with 1/2 turn (180 deg) to salto fwd,6.509,E,5,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
-209,Hip circle on LB to hecht 1/1 to back tuck,,Hip circle bwd (also clear) on LB Ð hecht with 1/1 turn (360 deg) to salto bwd,6.609,F,6,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
-210,Hip circle on HB to hecht 1/1 to back tuck,,Hip circle bwd (also clear) on HB Ð hecht with 1/1 turn (360 deg) to salto bwd,6.609,F,6,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+201,Hip circle on LB to hecht,,Hip circle bwd (also clear) on LB ï¿½ hecht,6.209,B,2,Dismounts,,Clear hip bwd,0,0,low,,low,,regular,,0
+202,Hip circle on HB to hecht,,Hip circle bwd (also clear) on HB ï¿½ hecht,6.209,B,2,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
+203,Hip circle on LB to hecht 1/1,,Hip circle bwd (also clear) on LB ï¿½ hecht with 1/1 turn (360 deg),6.309,C,3,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
+204,Hip circle on HB to hecht 1/1,,Hip circle bwd (also clear) on HB ï¿½ hecht with 1/1 turn (360 deg),6.309,C,3,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+205,Hip circle on LB to hecht back tuck,,Hip circle bwd (also clear) on LB ï¿½ hecht with salto bwd tucked,6.409,D,4,Dismounts,,Clear hip bwd,0,0,low,,low,,regular,,0
+206,Hip circle on HB to hecht back tuck,,Hip circle bwd (also clear) on HB ï¿½ hecht with salto bwd tucked,6.409,D,4,Dismounts,,Clear hip bwd,0,0,high,,high,,regular,,0
+207,Hip circle on LB to hecht 1/2 to front tuck,,Hip circle bwd (also clear) on LB ï¿½ hecht with 1/2 turn (180 deg) to salto fwd,6.509,E,5,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
+208,Hip circle on HB to hecht 1/2 to front tuck,,Hip circle bwd (also clear) on HB ï¿½ hecht with 1/2 turn (180 deg) to salto fwd,6.509,E,5,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
+209,Hip circle on LB to hecht 1/1 to back tuck,,Hip circle bwd (also clear) on LB ï¿½ hecht with 1/1 turn (360 deg) to salto bwd,6.609,F,6,Dismounts,,Clear hip bwd,1,0,low,,low,,regular,,0
+210,Hip circle on HB to hecht 1/1 to back tuck,,Hip circle bwd (also clear) on HB ï¿½ hecht with 1/1 turn (360 deg) to salto bwd,6.609,F,6,Dismounts,,Clear hip bwd,1,0,high,,high,,regular,,0
 211,Front tuck from hstd,,On HB - salto fwd tucked,6.21,B,2,Dismounts,,,0,0,high,,high,,regular,,0
-212,Front pike from hstd,,On HB Ð salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0
-213,Back tuck from hstd,,On HB Ð salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0
-214,Back pike from hstd,,On HB Ð salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0
+212,Front pike from hstd,,On HB ï¿½ salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0
+213,Back tuck from hstd,,On HB ï¿½ salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0
+214,Back pike from hstd,,On HB ï¿½ salto fwd piked or salto bwd tucked or piked,6.31,C,3,Dismounts,,,0,0,high,,high,,regular,,0

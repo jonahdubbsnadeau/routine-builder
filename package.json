@@ -1,22 +1,21 @@
 {
   "name": "routinebuilder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web application that allows users to create custom gymnastics routines and simulate scores.",
   "main": "server.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonahdubbsnadeau/routine-builder"
+  },
+  "author": "Jonah Dubbs-Nadeau",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "forever": "^1.0.0",
-    "mysql": "^2.17.1",
-    "path": "^0.12.7",
-    "request": "^2.88.0"
+    "jquery-csv": "^1.0.8"
   }
 }

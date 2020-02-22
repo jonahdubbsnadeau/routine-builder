@@ -31,7 +31,7 @@ var bars;
 var beam;
 var floor;
 
-app.get('/',function(req,res,next) {
+app.get('/', function(req,res,next) {
   var context = {};
   res.render('home', context);
 });
@@ -83,7 +83,7 @@ app.post('/floor', function(req, res, next) {
   }
 });
 
-app.get('/resources',function(req,res,next) {
+app.get('/resources', function(req,res,next) {
   var context = {};
   res.render('resources', context);
 });
@@ -95,19 +95,19 @@ app.get('/download', function(req, res) {
   });
 });
 
-app.use(function(req,res){
+app.use(function(req, res) {
   var context = {};
   res.status(404);
   res.render('404', context);
 });
 
-app.use(function(err, req, res, next){
+app.use(function(err, req, res, next) {
   var context = {};
   res.status(500);
   res.render('500', context);
 });
 
-app.listen(app.get('port'), function(){
+app.listen(app.get('port'), function() {
   console.log('Express started on ' + app.get('port') + '; press Ctrl-C to terminate.');
 
   fs.readFile('./resources/barskills.csv', 'utf8', function(err, data) {

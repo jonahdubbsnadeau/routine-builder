@@ -1,4 +1,4 @@
-/* File: server.js
+/* File: app.js
 * Author: Jonah Dubbs-Nadeau
 * Description: Contains all of the functionality for serving the content of the site.
 * Sources referenced:

@@ -138,49 +138,53 @@ app.listen(app.get('port'), function() {
 function getBarSkills(category, grip, bar, facing) {
   var result = [];
 
-  bars.forEach(skill => {
+  for (var skill = 0; skill < bars.length; skill++) {
     if (grip && bar && facing) {
       if (grip == "reverse" || grip == "L") {
-        if (skill.cat == category && 
-            (skill.startGrip == "either" || skill.startGrip == grip || skill.startGrip == "reverse/L") &&
-            (skill.beginsOn == "either" || skill.beginsOn == bar) &&
-            (skill.beginsFacing == "either" || skill.beginsFacing == facing)) {
-          result.push(skill);
+        if (bars[skill].cat == category && 
+            (bars[skill].startGrip == "either" || bars[skill].startGrip == grip || bars[skill].startGrip == "reverse/L") &&
+            (bars[skill].beginsOn == "either" || bars[skill].beginsOn == bar) &&
+            (bars[skill].beginsFacing == "either" || bars[skill].beginsFacing == facing)) {
+          result.push(bars[skill]);
         }
       } else {
-        if (skill.cat == category && 
-            (skill.startGrip == "either" || skill.startGrip == grip) &&
-            (skill.beginsOn == "either" || skill.beginsOn == bar) &&
-            (skill.beginsFacing == "either" || skill.beginsFacing == facing)) {
-          result.push(skill);
+        if (bars[skill].cat == category && 
+            (bars[skill].startGrip == "either" || bars[skill].startGrip == grip) &&
+            (bars[skill].beginsOn == "either" || bars[skill].beginsOn == bar) &&
+            (bars[skill].beginsFacing == "either" || bars[skill].beginsFacing == facing)) {
+          result.push(bars[skill]);
         }
       }
     } else {
-      if (skill.cat == category) {
-        result.push(skill);
+      if (bars[skill].cat == category) {
+        result.push(bars[skill]);
       }
     }
-  });
+  }
 
   return result;
 }
 
 function getBeamSkills(category) {
   var result = [];
-  beam.forEach(skill => {
-    if (skill.cat == category) {
-      result.push(skill);
+
+  for (var skill = 0; skill < bars.length; skill++) {
+    if (beam[skill].cat == category) {
+      result.push(beam[skill]);
     }
-  });
+  }
+
   return result;
 }
 
 function getFloorSkills(category) {
   var result = [];
-  floor.forEach(skill => {
-    if (skill.cat == category) {
-    result.push(skill);
+
+  for (var skill = 0; skill < bars.length; skill++) {
+    if (floor[skill].cat == category) {
+      result.push(floor[skill]);
+    }
   }
-  });
+
   return result;
 }

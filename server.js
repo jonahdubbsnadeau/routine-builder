@@ -77,9 +77,7 @@ app.get('/floor', function(req, res) {
 
 app.post('/floor', function(req, res, next) {
   if (req.body.cat) {
-    if (req.body.cat) {
-      res.send(JSON.stringify(getFloorSkills(req.body.cat)));
-    }
+    res.send(JSON.stringify(getFloorSkills(req.body.cat)));
   }
 });
 
@@ -168,7 +166,7 @@ function getBarSkills(category, grip, bar, facing) {
 function getBeamSkills(category) {
   var result = [];
 
-  for (var skill = 0; skill < bars.length; skill++) {
+  for (var skill = 0; skill < beam.length; skill++) {
     if (beam[skill].cat == category) {
       result.push(beam[skill]);
     }
@@ -180,7 +178,7 @@ function getBeamSkills(category) {
 function getFloorSkills(category) {
   var result = [];
 
-  for (var skill = 0; skill < bars.length; skill++) {
+  for (var skill = 0; skill < floor.length; skill++) {
     if (floor[skill].cat == category) {
       result.push(floor[skill]);
     }
